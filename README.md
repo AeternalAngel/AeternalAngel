@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="aeternus.png" width="100%" alt="Aeternus">
+</p>
 
-<!--
-**AeternalAngel/AeternalAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Também conhecido como AeternalAngel (antes DarkOFC73).
 
-Here are some ideas to get you started:
+> Faço o que dá na telha, e passo o tempo mexendo no meu setup Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projetos**
+- FNaF 97 · jogo indie feito na Godot *(em desenvolvimento)*
+- Just Gabriel · visual novel em Ren'Py *(em desenvolvimento)*
+
+**Contato:** Discord `darkofc73`
