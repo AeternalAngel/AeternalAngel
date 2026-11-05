@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="aeternus.png" width="100%" alt="Aeternus">
+  <img src="Aeternus.png" width="100%" alt="Aeternus">
 </p>
 
 Também conhecido como AeternalAngel (antes DarkOFC73).
