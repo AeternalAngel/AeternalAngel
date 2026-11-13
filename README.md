@@ -10,4 +10,4 @@ Também conhecido como AeternalAngel (antes DarkOFC73).
 - **Just Gabriel** · Visual novel desenvolvida em Ren'Py *(em desenvolvimento)*
 - **[Aeternus](https://github.com/AeternalAngel/aeternus)** · Emulador de terminal desenvolvido em Rust *(lançado)*
 
-**Contato:** Discord `darkofc73`
+**Contato:** Discord `aeternus_3`
